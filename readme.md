@@ -44,9 +44,9 @@ A simple log4net configuration has been included for logging.
 
 There is a small amount of test data in the database.
 
-|Post Code|Addresses
-|=========|=========
-|LS1 3ED|2
-|BD1 4AG|1
-|LS2 9JT|1
+|Post Code|Addresses|
+|---------|---------|
+|LS1 3ED|2|
+|BD1 4AG|1|
+|LS2 9JT|1|
 
